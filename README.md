@@ -3,6 +3,7 @@ Basic Payslip Kata
 At MYOB we rock at payroll, the most important part of payroll is getting your payslip!
 
 Overview
+
 We have the following payslip rules:
 
 Pay period = per calendar month
